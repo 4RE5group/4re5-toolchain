@@ -25,6 +25,7 @@
 | JEQ | 0 | 01 | 0  | 0 | 1 | 0 | 0 | 0 | Jump if Equal to Zero |
 | JZ  | 0 | 10 | 0  | 0 | 1 | 0 | 1 | 0 | Jump if Zero|
 
+mov a, *a
 
 
 u: number operation, u=1 else logic operation
